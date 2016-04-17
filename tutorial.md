@@ -49,7 +49,12 @@ https://rekordbox.com/ja/store/
 DJ用語では上のようなDJ用に作られたプレイリストのことをセットリスト、縮めてセトリと呼びます。
 
 ## DJ機器の機能
-数多くあるDJ機器でも、大きく分ければ持っている機能はそこまで多くありません。この節では、DJ機器に最低限備わっている機能について簡単に説明します。  
+数多くあるDJ機器でも、大きく分ければ持っている機能はそこまで多くありません。  
+
+![DDJ-SB](./ddjsb.jpg)
+
+この節では、DJ機器に最低限備わっている機能について、PCDJであるDDJ-SBを例に簡単に説明します。DDJ-SBの公式サイトはこちら。  
+https://www.pioneerdj.com/ja-jp/product/controller/ddj-sb/black/overview/
 
 #### チャンネル
 ![チャンネル](./ddjsb-ch.png)
