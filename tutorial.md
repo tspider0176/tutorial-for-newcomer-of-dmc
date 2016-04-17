@@ -104,7 +104,7 @@ DJ用語では上のようなDJ用に作られたプレイリストのことを�
 これらはJ-POPを聞いていたり、音楽理論に詳しい人なら理解が早いかもしれません。曲をつなぐ際は、今流している曲のアウトロと、次に流したい曲のイントロをうまく繋ぎあわせる、と考えて貰って構わないです。
 
 ## 参考
-http://dtmreview.com/pcdj-1199.html
-http://www.otaiweb.com/shop-item-fidp6893.html
-http://www.otaiweb.com/player/intro.html
+http://dtmreview.com/pcdj-1199.html  
+http://www.otaiweb.com/shop-item-fidp6893.html  
+http://www.otaiweb.com/player/intro.html  
 https://howtomakeedmdtm.wordpress.com/2015/11/07/edm%E3%81%AE%E6%A7%8B%E6%88%90/
